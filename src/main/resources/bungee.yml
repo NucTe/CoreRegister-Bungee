@@ -1,0 +1,3 @@
+name: CoreRegister-Bungee
+version: '${project.version}'
+main: me.nuclearteam.coreregisterbungee.CoreRegister_Bungee
